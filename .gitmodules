@@ -1,0 +1,3 @@
+[submodule "AutoRate"]
+	path = AutoRate
+	url = https://github.com/eshanking/AutoRate.git
